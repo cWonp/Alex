@@ -1,0 +1,31 @@
+bool run_flag
+float32 ent
+float32 pX
+float32 pY
+float32 pZ
+float32 rX
+float32 rY
+float32 rZ
+float32 type
+float32 toolnumber
+float32 correct_init_0
+float32 correct_init_1
+float32 correct_init_2
+float32 correct_init_3
+float32 correct_init_4
+float32 correct_init_5
+float32 correct_init_6
+float32 X_Tool_0
+float32 X_Tool_1
+float32 X_Tool_2
+float32 X_Tool_3
+float32 Y_Tool_0
+float32 Y_Tool_1
+float32 Y_Tool_2
+float32 Y_Tool_3
+float32 Z_Tool_0
+float32 Z_Tool_1
+float32 Z_Tool_2
+float32 Z_Tool_3
+
+
